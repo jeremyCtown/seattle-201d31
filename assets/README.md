@@ -1,0 +1,1 @@
+This folder will contain whiteboarding diagrams and other images used throughout this course.
