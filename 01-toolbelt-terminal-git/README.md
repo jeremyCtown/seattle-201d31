@@ -14,7 +14,7 @@ This first day of class is an all-day session with the students that is mostly l
 
 - [Continuing going over the assigned readings](#readings) *[30-60 minutes]*
 - [Code demo to prep for lab](#code) *[60 minutes]*
-- [LAB](#lab) *[until 5:00]*
+- [LAB](#lab)
   - Write code as outlined in the lab assignment
   - [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
   - [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
@@ -39,16 +39,12 @@ As a result of completing Lecture 1 of Code 201, students will be able to:
 <a id="kickoff"></a>
 ## Kickoff!
 
-[Slides: 1-first-day-orientation.pdf](slides/1-first-day-orientation.pdf)
-
 This is the welcome and introduction to Code Fellows. Students will meet the campus manager and learn about campus operations and policies.
 
 [-top-](#top)
 
 <a id="academic"></a>
 ## Academic Overview
-
-[Slides: 2-academic-overview.pdf](slides/2-academic-overview.pdf)
 
 The instructor will give an overview of the topics to be covered in this course and how those topics fit into the overall academic program at Code Fellows.
 
@@ -69,17 +65,13 @@ By doing a few quick tests and exercises, as detailed below, ensure that student
 <a id="ug"></a>
 ## Unix & Git
 
-[Slides: 3-unix.pdf](slides/3-unix.pdf)
-[Slides: 4-git-intro.pdf](slides/4-git-intro.pdf)
-[Slides: 5-git-branching.pdf](slides/5-git-branching.pdf)
-
 Slides to introduce students to core concepts of file management from the command line and the fundamentals of Git and GitHub.
 
 [-top-](#top)
 
 <a id="linter"></a>
 ## Set up a JavaScript linter
-Have students go to the command line and `apm install linter-eslint`. Have them open a new tab in their terminal ( which also shows them that this is something they can do!) and cd to their home directory. Then `code .eslintrc` in their home directory and copypasta the contents of the .eslintrc file (send it through the class Slack channel, which is a nice verification of that functionality). Then go into the package settings in VSCode and make sure that it is looking for that .eslintrc
+Students should open a new tab in their terminal and cd to their home directory. Then `code .eslintrc` in the home directory and paste the contents of the .eslintrc file. Then go into the package settings in VSCode and make sure that it is looking for that .eslintrc
 
 [-top-](#top)
 
