@@ -58,7 +58,7 @@ By doing a few quick tests and exercises, as detailed below, ensure that student
 - VSCode packages: Be sure that they have linter, minimap,and  open-in-browser installed.
 - Chrome: how to open the console
 - Git: enter `which git` in the command line to verify installation
-- Directory structure: Have students set up a directory at ~/codefellows/201/ in which they will store their classwork. Go over directory structure in general; compare to GUI.
+- Directory structure: Have students set up a directory at ~/codefellows/201/ in which they will store their classwork.
 
 [-top-](#top)
 
@@ -71,8 +71,7 @@ Slides to introduce students to core concepts of file management from the comman
 
 <a id="linter"></a>
 ## Set up a JavaScript linter
-Students should open a new tab in their terminal and cd to their home directory. Then `code .eslintrc` in the home directory and paste the contents of the .eslintrc file. Then go into the package settings in VSCode and make sure that it is looking for that .eslintrc
-
+Students should open a new tab in their terminal and cd to their home directory. Then `code .eslintrc.json` in the home directory and paste the contents of the .eslintrc.json file.
 [-top-](#top)
 
 <a id="readings"></a>
