@@ -13,7 +13,10 @@
 - [Review lab assignment, code demo, `git clone`](#code) *[45 minutes]*
 
 #### Announcements:
-- Quiz 1 will be published at the end of lab. More about quizzes:
+
+- MLK Jr. Day on Monday, January 15th
+- Career coaching assignments on Canvas & GitHub.
+- All quizzes are published.
  	- Note that there will be some quiz content from time to time that we may not have covered yet for instance something on the quiz published today that we do not cover until the next class.
  	- Keep in mind that you have unlimited re-takes on the quizzes, and also that the quizzes are designed to be treated like they are open-book. It's more about what you can figure out than what you have memorized.
 	- Also, note that the quizzes have two main purposes:
@@ -27,7 +30,7 @@
 - The reasons for going over the JS and CSS chapters in so much detail this morning, even though they do overlap with the pre-work quite a bit:
   1. Not everyone got the same amount of benefit/knowledge from completing pre-work.
   2. There are gaps, and omissions, and depth of the subject matter that need to be addressed.
-  3. We're focusing on translating into "how we use this" and getting practice in applying this material within our new IDE (Integrated Development Environment) of Atom, Chrome, and the terminal.
+  3. We're focusing on translating into "how we use this" and getting practice in applying this material within our new IDE (Integrated Development Environment) of VSCode, Chrome, and the terminal.
 
 **Learning Objectives**
 
