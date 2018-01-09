@@ -23,6 +23,7 @@
   			1. To get you to re-engage with the content in a different way, reinforcing your knowledge.
   			2. To help you prepare for the Code 301 entrance exam, which you will take at the end of Week 3. There is a minimum threshold you must pass on that exam (80%), and also, that exam factors into your grade in this class.
 
+- Linter setup
 - There will be lots of detail work today on JS and CSS. We're going forward with the expectation that you will need minimal instruction on HTML except for concepts and overview of practices, and the specifics of how to interface with JS and CSS.
 
 - **Be sure to raise questions** about any topics that you'd like clarity about. If it is a topic that we will cover in the future, We'll let you know and maybe give a quick answer for now. On this day in particular, where we have so much to cover, it is important to avoid going down time-consuming rabbit-holes.
