@@ -5,6 +5,8 @@
 
 #### Announcements
 
+[Code Pen Demo](https://codepen.io/alliegrampa/pen/KZoyEB?editors=0100)
+
 #### Schedule for today
 
 - [Code Review](#codereview) *[30 minutes]*
