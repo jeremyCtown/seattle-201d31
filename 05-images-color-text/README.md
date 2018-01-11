@@ -9,7 +9,7 @@
 ### Today's Schedule
 - Announcements 
 - Code review
-- Various topics
+- Various topics by request
 - Git Branching
 - Deployment
 - Code demo for Lab
@@ -62,20 +62,6 @@ As a result of completing Lecture 5 of Code 201, students will:
 - p.292: Attribute selectors
 
 [-top-](#top)
-
-<a id="smattering"></a>
-## A smattering of topics
-
-- 'use strict'
-- W3 Schools vs. MDN vs Stack Overflow, etc.
-- Linter setups
-- The increment operator
-- Logical operators % short circuiting
-- String methods
-- Array methods
-- Function declarations vs. function assignments
-- CSS Zen Garden
-- HAMs
 
 <a id="git"></a>
 ## Git branching, including deployment
