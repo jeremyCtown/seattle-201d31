@@ -63,6 +63,8 @@ Today we'll take 45 minutes to look at some code and go over possible solutions 
 - p.387: Layout grids
 - p.391: CSS frameworks
 
+[Code Pen demo](https://codepen.io/alliegrampa/pen/YYLZYZ?editors=1100)
+
 ##### [learnlayout.com](http://learnlayout.com) will be our practical entry point into layout
 ##### [CSS Zen Garden](http://www.csszengarden.com/) allows you to practice CSS styling and see how others have styled the same HTML code.
 ##### [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/) has some helpful tips for centering content horizontally and vertically.
