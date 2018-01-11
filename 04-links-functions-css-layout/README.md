@@ -7,6 +7,8 @@
 
   - Did everyone update their linters in VSCode?
 
+  - Make sure one tab === 2 spaces in VSCode
+
   - [Please sign up for a time slot](alliegrampa.youcanbook.me) for a one-on-one with me next week. Make sure to use the "Jump To Date" feature to skip to Monday, 1/15/18. We will be reviewing your self-assessment assignment, which is due this Sunday at 11:59 p.m., so please make sure to complete it on time!
 
 	- Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take after the last class and right before Project Week.
