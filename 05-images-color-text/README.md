@@ -3,6 +3,9 @@
 <a id="top"></a>
 # Today's Plan: Lecture 5
 
+### Link to Lab 5
+[Click here.](https://github.com/codefellows/201d31-lab-5)
+
 - Announcements
 	- **Reminder:** Weekly surveys will go out to students in email. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
 
