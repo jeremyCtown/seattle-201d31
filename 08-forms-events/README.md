@@ -7,6 +7,8 @@
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[90 minutes]*
 
+[Code Pen from today](https://codepen.io/alliegrampa/pen/VMpopz?editors=0010)
+
 **Learning Objectives**
 
 As a result of completing Lecture 8 of Code 201, students will:
