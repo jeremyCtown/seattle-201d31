@@ -2,6 +2,7 @@
 # Today's Plan: Lecture 8
 
 - Announcements
+  - Instructor Panel tomorrow (Thursday) in the main event space at 1:00 p.m.
 - [Code Review](#codereview) *[30 minutes]*
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[90 minutes]*
