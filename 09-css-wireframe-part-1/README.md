@@ -4,7 +4,7 @@
 - Announcements
   - Reminder: 401 Instructor Panel today at 1:00 in the main event space
   - Learning Journals are now in Canvas
-  - Optional whiteboarding practice next week
+  - [Optional whiteboarding practice next week](https://docs.google.com/spreadsheets/d/1QVPPTOWYY4-9hR-cHc0qk_7_lxpdody_pdVTTpKvS3E/edit?usp=sharing)
   - It's not too soon to start thinking about final projects
 - [Code Review](#codereview) *[30 minutes]*
 - [Go over the assigned readings](#readings) *[60 minutes]*
