@@ -5,6 +5,7 @@
   - Career Coaching - how's it going so far?
   - Learning Journal - preference between GitHub vs. Canvas?
   - Optional Whiteboarding Sessions, sign up [here](https://docs.google.com/spreadsheets/d/1QVPPTOWYY4-9hR-cHc0qk_7_lxpdody_pdVTTpKvS3E/edit#gid=0)
+    - [Whiteboarding Process and Pointers](https://docs.google.com/document/d/1_B3jo1ilDnl4LrVYfoH1vueJoq2ZL0XSenSBxp1lhwI/edit?usp=sharing)
   - Project Week is getting closer! Let's look at some previous 201 projects.
     - [We Always Skip Leg Day](http://workoutchooser.site/)
     - [Quiz Fellows](https://ccloops.github.io/quiz-fellows/index.html)
